@@ -9,6 +9,7 @@ die: a paper template
   - pygmentize
 
     $ pip install Pygments 
+    $ sudo apt install python3-pygments  # Or on Ubuntu 20.04
 
 1. clone the git repo:
 
